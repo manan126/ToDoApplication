@@ -15,8 +15,8 @@ This Todo app, crafted using Node.js, Express, and MongoDB, incorporates authent
 1. Repository Cloning   
 
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
-   cd todo-app
+   git clone https://github.com/manan126/ToDoApplication.git
+   cd ToDoApplication
    ```
 
 2. Dependencies Installation
@@ -25,15 +25,9 @@ This Todo app, crafted using Node.js, Express, and MongoDB, incorporates authent
    npm install
    ```
 
-3. Environment Configuration
-
+3. Server Initialization
    ```bash
-   cp .env.example .env
-   ```
-
-4. Server Initialization
-   ```bash
-   npm start
+   node server.js
    ```
 
 ## Server Routs
